@@ -52,13 +52,6 @@ More cool icons that I like :) :
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=cvipdebug&theme=dracula&no-bg=true&margin-w=15)
 
----
-
-### 😂 Random Dev Meme / Quote
-(Refresh for new ones — you can add these widgets later if you want)
-
----
-
 <div align="center">
   <h3>Thanks for stopping by! ⭐ Star my repos if you find them useful</h3>
   <i>Made with ❤️ and too much Python</i>
