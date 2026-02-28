@@ -1,27 +1,65 @@
-# 💫 About Me:
-🔭 Working on anything I can<br>🌱 I’m currently learning NOTHING<br>💬 Ask me about any computer problem
+<div align="center">
+  <h1>Hey, I'm cvip 👋</h1>
+  <h3>20 y/o Python enthusiast who builds random tools & gaming scripts for fun 🐍</h3>
 
+  <img src="https://komarev.com/ghpvc/?username=cvipdebug&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cvip) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cvipdebug&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cvipdebug&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cvipdebug&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cvipdebug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+  <a href="https://github.com/cvipdebug?tab=repositories">
+    <img src="https://img.shields.io/github/followers/cvipdebug?label=Followers&style=for-the-badge" alt="Followers">
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ph-hub&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔭 About Me
+- **Working on** anything that sounds fun: quick Python scripts, Roblox Lua GUIs, bypasses, and random utilities  
+- **Currently learning** → whatever catches my eye (Python mastery is the goal though)  
+- **Ask me about** any computer problem, WiFi tools, VALORANT tweaks, Roblox exploits, or Python stuff  
+
+---
+
+### 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+Or with cool icons:
+![Skills](https://skillicons.dev/icons?i=python,lua,bash,html,css)
+
+---
+
+### 🔥 Featured Projects
+
+**🐍 Python Tools**
+- **[Wifipumpkin3-Easy-Script](https://github.com/cvipdebug/Wifipumpkin3-Easy-Script)** — Super simple wrapper for WiFi pumpkin3 (most popular, 5⭐)  
+- **[linkvertise-bypass](https://github.com/cvipdebug/linkvertise-bypass)** — One-click linkvertise bypass because why not  
+- **[VALORANT-Process-Disabler](https://github.com/cvipdebug/VALORANT-Process-Disabler)** — Kill VALORANT processes & services easily  
+- **[skribbl.io-link-gen](https://github.com/cvipdebug/skribbl.io-link-gen)** — Generate & check Skribbl.io private room links  
+
+**🎮 Roblox Lua Hubs**
+- **[The-Mimic](https://github.com/cvipdebug/The-Mimic)** — Clean GUI for The Mimic  
+- **[The-Witch-Trials-Hub](https://github.com/cvipdebug/The-Witch-Trials-Hub)** — Script hub for The Witch Trials (Mimic)  
+
+---
+
+### 📊 GitHub Stats
+
+![cvipdebug's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cvipdebug&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvipdebug&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=cvipdebug&theme=dracula&no-bg=true&margin-w=15)
+
+---
+
+### 😂 Random Dev Meme / Quote
+(Refresh for new ones — you can add these widgets later if you want)
+
+---
+
+<div align="center">
+  <h3>Thanks for stopping by! ⭐ Star my repos if you find them useful</h3>
+  <i>Made with ❤️ and too much Python</i>
+</div>
