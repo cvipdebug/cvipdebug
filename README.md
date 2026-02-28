@@ -22,7 +22,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-Or with cool icons:
+More cool icons that I like :) :
 ![Skills](https://skillicons.dev/icons?i=python,lua,bash,html,css)
 
 ---
